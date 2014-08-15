@@ -28,7 +28,7 @@ module.exports = function(grunt) {
 				tasks: ['compass:dev']
 			}, //sass
 			html: {
-				files: ['portfolio/*.html']
+				files: ['portfolio/ *.html']
 			}
 		} //watch
 	}) //initConfig	
